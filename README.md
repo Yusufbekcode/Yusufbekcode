@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yusufbekcode
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on pass
 - 📫 How to reach me t.me @yusufbek30
 
 <!---
